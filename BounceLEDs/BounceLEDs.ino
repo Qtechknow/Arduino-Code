@@ -28,9 +28,11 @@ void loop() {
         digitalWrite(ledPins[x], HIGH);
         delay(30);
       }
-      
+      digitalWrite(ledPins[0], HIGH);
+    
       for(int w=10; w>0; w--) {  // turn all LEDs off, one by one
         digitalWrite(ledPins[w], LOW);
         delay(30);
       }   
+      digitalWrite(ledPins[0], LOW);
 }
