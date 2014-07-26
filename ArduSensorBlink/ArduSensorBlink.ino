@@ -1,4 +1,4 @@
-/*  ArduSensor with LED
+/*  ArduSensor Blink with LED
 
 Blinks the built-in LED at D13 proportionate to the value of your ArduSensor
 at pin A0.
@@ -6,6 +6,7 @@ at pin A0.
 created 5 Apr 2012
 by Quin (Qtechknow)
 http:/www.qtechknow.com/
+
 */
 
 const int ledPin = 13;  // variable that stays the same, all the time

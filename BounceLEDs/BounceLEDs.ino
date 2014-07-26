@@ -1,6 +1,6 @@
 /*  BounceLEDs
 
-"Bounces" LEDs back and forth on the QBar Graph.
+"Bounces" LEDs on the QBar Graph back and forth.
 
 made on 22 July 12
 created by Quin (Qtechknow)
