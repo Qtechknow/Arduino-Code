@@ -49,5 +49,4 @@ void loop() {
   } 
   
   Serial.println(sensorReading, DEC);     // print the ArduSensor value to the
-  delay(100);                             // serial monitor
 }
